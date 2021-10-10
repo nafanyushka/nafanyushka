@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my GitHub!
 
-<!--
-**nafanyushka/nafanyushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐰 I'm a student of MEPhI. At the moment i'm learning Java.
+- 💾 Implemented data structures in С.
+- 🔨 Now working on pet project in collaboration with [daniil00t] on "RepDict" to help people to improve their speaking in a foreign language skills.
+- 🌿 Learning spring and OOP on C++ now.
+- 🐧 There are several projects with I started my studies programming
 
-Here are some ideas to get you started:
+### Skills:
+- ☕️ Java - Intren/Junior
+- 🛵 C - Intern/Beginner
+- 🏍 C++ - Beginner
+- 🐍 Python - Beginner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ Telegram: @nafanyechka
+
+[daniil00t]: <http://nodejs.org>
