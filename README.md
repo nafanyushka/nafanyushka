@@ -11,6 +11,7 @@
 - 🛵 C - Intern/Beginner
 - 🏍 C++ - Beginner
 - 🐍 Python - Beginner
+- 🗃 SQL - Beginner
 - 💽 Have an experience of Maven Java Spring Boot application deploy on server. (Имею опыт в деплое на сервер Maven приложения на Java Spring Boot).
 - 🀄 B2 / C1 - English / английский на уровне чтения документации.
 
