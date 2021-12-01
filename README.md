@@ -29,4 +29,4 @@
 
 ✉️ Telegram: @nafanyechka, Mail: bausov.vadim@yandex.ru, VK: https://vk.com/buzzdrick.
 
-[daniil00t]: <http://nodejs.org>
+[daniil00t]: <https://github.com/daniil00t>
