@@ -7,7 +7,7 @@
 - 🐧 There are several projects with I started my studies programming. (Тут есть несколько проектов с которых я начинал изучать программирование).
 
 ### Skills (Умения):
-- ☕️ Java - Intren/Junior
+- ☕️ Java - Junior/Middle
 - 🛵 C - Intern/Beginner
 - 🏍 C++ - Beginner
 - 🐍 Python - Beginner
